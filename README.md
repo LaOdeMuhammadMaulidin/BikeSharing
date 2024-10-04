@@ -31,7 +31,6 @@ cnt: count of total rental bikes including both casual and registered
 │   ├── dash.py
 │   └── Day_analisis.csv
 ├── data
-│   ├── README.md
 │   ├── day.csv
 |   └── hour.csv
 ├── screenshots
