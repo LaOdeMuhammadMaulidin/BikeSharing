@@ -28,21 +28,20 @@ cnt: count of total rental bikes including both casual and registered
 ```
 .
 ├── dashboard
-│   ├── dash.py
+│   ├── main.py
 │   └── Day_analisis.csv
 ├── data
 │   ├── day.csv
 |   └── hour.csv
 ├── screenshots
-|   ├── Screenshots (821).png
-|   ├── Screenshots (826).png
-|   ├── Screenshots (839).png
-|   ├── Screenshots (845).png
-|   ├── Screenshots (901).png
-|   ├── Screenshots (921).png
-|   ├── Screenshots (912).png
-|   ├── Screenshots (851).png
-|   └── Screenshots (926).png
+|   ├── Screenshots (455).png
+|   ├── Screenshots (504).png
+|   ├── Screenshots (511).png
+|   ├── Screenshots (528).png
+|   ├── Screenshots (517).png
+|   ├── Screenshots (540).png
+|   ├── Screenshots (547).png
+|   └── Screenshots (555).png
 ├── README.md
 ├── Proyek_Analisis_Data.ipynb
 └── requirement.txt
@@ -76,21 +75,22 @@ cnt: count of total rental bikes including both casual and registered
 
 ### `dashboard/dashboard.py`
 1. Download project ini .
-2. Install streamlit di cmd denfan `pip install streamlit`. Install library lain seperti pandas, numpy, scipy, matplotlib, and seaborn
+2. Install streamlit di cmd dengan `pip install streamlit`. Install library lain seperti pandas, numpy,streamlit, matplotlib, and seaborn
 3. jangan ubah file csv. tetapkan dalam folder yang sama dengan dashboard.py
-4. buka pycharm dan jalankan `streamlit run dash.py` pada terminal
+4. buka pycharm dan jalankan `streamlit run main.py` pada terminal
 
 ## 4. Screenshots
 
-![Screenshot 2024-10-04 180821](https://github.com/user-attachments/assets/dd5bf9e8-64d6-4e65-8110-1d8e0918ab9c)
-![Screenshot 2024-10-04 180826](https://github.com/user-attachments/assets/c9ae325a-db80-4e0b-baee-e5ed75961a43)
-![Screenshot 2024-10-04 180839](https://github.com/user-attachments/assets/72bab38d-5684-4ced-ac10-50bc73521f04)
-![Screenshot 2024-10-04 180845](https://github.com/user-attachments/assets/0bb1b9f5-4a59-420d-b9b1-ea2643480f2d)
-![Screenshot 2024-10-04 180901](https://github.com/user-attachments/assets/f752197e-ccfc-45ff-8f81-04b79181a5fa)
-![Screenshot 2024-10-04 180921](https://github.com/user-attachments/assets/e3691dfc-2e7c-43a9-ae3f-165a0d5c7e22)
-![Screenshot 2024-10-04 180912](https://github.com/user-attachments/assets/3be244c2-93ca-47a7-a198-6dfe9c75e9c4)
-![Screenshot 2024-10-04 180851](https://github.com/user-attachments/assets/87e0c158-dad2-4635-977e-abd08dea27fa)
-![Screenshot 2024-10-04 180926](https://github.com/user-attachments/assets/640cbb08-7424-4e00-8e3f-60b5d75cc195)
+![Screenshot 2024-10-06 000455](https://github.com/user-attachments/assets/9a59a722-56f0-4637-b4d1-b39bcb9bc994)
+![Screenshot 2024-10-06 000504](https://github.com/user-attachments/assets/0a0e998e-d274-4176-b80b-aaa9fd9a8498)
+![Screenshot 2024-10-06 000511](https://github.com/user-attachments/assets/65c08d55-13d9-4bf3-9dac-eeced92bb66b)
+![Screenshot 2024-10-06 000528](https://github.com/user-attachments/assets/9ead7a57-1d39-49ae-a6dc-a8a5b64f2fb5)
+![Screenshot 2024-10-06 000517](https://github.com/user-attachments/assets/23892ef6-6081-4da9-b2c2-54276aafaed2)
+![Screenshot 2024-10-06 000540](https://github.com/user-attachments/assets/7d8ce5ff-64fd-4a92-a741-f2a570687739)
+![Screenshot 2024-10-06 000547](https://github.com/user-attachments/assets/f0576fc9-8dd1-41e3-a608-4b1025b141f4)
+![Screenshot 2024-10-06 000555](https://github.com/user-attachments/assets/df5f3264-407b-49ed-b679-eecee9085219)
+
+
 
 
 
