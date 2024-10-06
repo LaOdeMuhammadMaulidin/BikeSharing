@@ -34,14 +34,10 @@ cnt: count of total rental bikes including both casual and registered
 │   ├── day.csv
 |   └── hour.csv
 ├── screenshots
-|   ├── Screenshots (455).png
-|   ├── Screenshots (504).png
-|   ├── Screenshots (511).png
-|   ├── Screenshots (528).png
-|   ├── Screenshots (517).png
-|   ├── Screenshots (540).png
-|   ├── Screenshots (547).png
-|   └── Screenshots (555).png
+|   ├── Screenshots (050).png
+|   ├── Screenshots (058).png
+|   ├── Screenshots (106).png
+|   └── Screenshots (115).png
 ├── README.md
 ├── Proyek_Analisis_Data.ipynb
 └── requirement.txt
@@ -81,14 +77,10 @@ cnt: count of total rental bikes including both casual and registered
 
 ## 4. Screenshots
 
-![Screenshot 2024-10-06 000455](https://github.com/user-attachments/assets/9a59a722-56f0-4637-b4d1-b39bcb9bc994)
-![Screenshot 2024-10-06 000504](https://github.com/user-attachments/assets/0a0e998e-d274-4176-b80b-aaa9fd9a8498)
-![Screenshot 2024-10-06 000511](https://github.com/user-attachments/assets/65c08d55-13d9-4bf3-9dac-eeced92bb66b)
-![Screenshot 2024-10-06 000528](https://github.com/user-attachments/assets/9ead7a57-1d39-49ae-a6dc-a8a5b64f2fb5)
-![Screenshot 2024-10-06 000517](https://github.com/user-attachments/assets/23892ef6-6081-4da9-b2c2-54276aafaed2)
-![Screenshot 2024-10-06 000540](https://github.com/user-attachments/assets/7d8ce5ff-64fd-4a92-a741-f2a570687739)
-![Screenshot 2024-10-06 000547](https://github.com/user-attachments/assets/f0576fc9-8dd1-41e3-a608-4b1025b141f4)
-![Screenshot 2024-10-06 000555](https://github.com/user-attachments/assets/df5f3264-407b-49ed-b679-eecee9085219)
+![Screenshot 2024-10-07 073050](https://github.com/user-attachments/assets/b299c783-6a24-406b-9267-949b93dba21a)
+![Screenshot 2024-10-07 073058](https://github.com/user-attachments/assets/1cfeac21-14bc-4575-bbbb-fceb2496d8d2)
+![Screenshot 2024-10-07 073106](https://github.com/user-attachments/assets/0086c100-d1a9-4c3d-b789-e58fddeb5183)
+![Screenshot 2024-10-07 073115](https://github.com/user-attachments/assets/dd4e92b7-efc0-436d-8785-f1fffcda8e63)
 
 
 
